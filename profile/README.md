@@ -41,7 +41,7 @@ Our organization is not currently open to public contributions or memberships, b
 
 ## Contact
 
-🖌️ More details will be shared soon on our website/blog.
+🖌️ filip@blichstudio.com
 
 ---
 
