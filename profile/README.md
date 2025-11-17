@@ -1,6 +1,6 @@
-# Blich Game Studio
+# Blich Studio
 
-Welcome to **Blich Game Studio**!
+Welcome to **Blich Studio**!
 
 We are a creative indie collective passionate about:
 - **Indie games**
